@@ -34,7 +34,8 @@ class Hero extends Component {
                                 </span>
                                 <span className="hero__text">&#8226;</span>
                                 <span className="hero__text hero__text--light">
-                                    {t("home.hero.orders")}
+                                    {/* {t("home.hero.orders")} */}
+                                    {t("home.hero.orders.Discount")} 
                                 </span>
                             </div>
                         </div>
